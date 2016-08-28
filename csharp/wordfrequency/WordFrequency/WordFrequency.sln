@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFrequencyConsole", "WordFrequencyConsole\WordFrequencyConsole.csproj", "{FF97C6C8-5E81-49E4-85E2-D803669F6D4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFrequencyLib", "WordFrequencyLib\WordFrequencyLib.csproj", "{EF7CCCF7-0F57-4150-8862-8021CE738DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFrequencyLibTest", "WordFrequencyLibTest\WordFrequencyLibTest.csproj", "{2BC4C0F2-623D-4951-837C-ECCD8F3CF001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF97C6C8-5E81-49E4-85E2-D803669F6D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF97C6C8-5E81-49E4-85E2-D803669F6D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF97C6C8-5E81-49E4-85E2-D803669F6D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF97C6C8-5E81-49E4-85E2-D803669F6D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7CCCF7-0F57-4150-8862-8021CE738DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7CCCF7-0F57-4150-8862-8021CE738DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7CCCF7-0F57-4150-8862-8021CE738DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7CCCF7-0F57-4150-8862-8021CE738DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC4C0F2-623D-4951-837C-ECCD8F3CF001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC4C0F2-623D-4951-837C-ECCD8F3CF001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC4C0F2-623D-4951-837C-ECCD8F3CF001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC4C0F2-623D-4951-837C-ECCD8F3CF001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

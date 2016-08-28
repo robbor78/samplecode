@@ -1,0 +1,3 @@
+........
+
+This is some C++ code which simulates a queue in a supermarket. I wrote this to learn how to do multi threading in C++ on Linux.
